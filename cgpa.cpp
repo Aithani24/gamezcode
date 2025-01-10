@@ -7,7 +7,7 @@ int main()
     float percentage,cg,marks,total=0,maxmarks;    
     cout<<"Number of subjects you want to Calculate the CGPA of \n";
     cin>> sub;
-    cout<< "Enter the maximum marks that a student can take \n";
+    cout<< "Enter the overall marks that a student can take (combination of all subjects) \n";
     cin>> maxmarks;
     for (int i = 1; i <= sub; i++)
     {
