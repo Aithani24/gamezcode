@@ -27,8 +27,5 @@ int main()
         cout<<fixed<<setprecision(2)<<"Your Percentage "<<percentage<<"% \n";
         cout<<fixed<<setprecision(2)<<"Your CGPA "<< cg <<"\n";
     }
-
-    
- 
-
+    return 0;   
 }
